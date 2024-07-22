@@ -1,1 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#c{
+    text-decoration: none;
+    color: blue;
+    text-align: center; vertical-align: top;
+}
+
+#d{
+    text-decoration: none;
+    color: blue;
+    text-align: center; vertical-align: top;
+}
+
+#e{
+    text-decoration: none;
+    color: blue;
+    text-align: center; vertical-align: top;
+}
+
+#f{
+    text-decoration: none;
+    color: blue;
+    text-align: center; vertical-align: top;
+}
+
+#g{
+    text-decoration: none;
+    color: blue;
+    text-align: center; vertical-align: top;
+}
+
+#h{
+    text-decoration: none;
+    color: blue;
+    text-align: center; vertical-align: top;
+}
+
+li:hover{
+    background-color: aqua;
+}    
+
 
